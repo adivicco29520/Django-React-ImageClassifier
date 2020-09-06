@@ -6,7 +6,7 @@ chardet
 Django
 django-cors-headers
 djangorestframework
-gast
+gast==0.3.3
 google-auth
 google-auth-oauthlib
 google-pasta
@@ -18,7 +18,7 @@ Keras
 Keras-Applications
 Keras-Preprocessing
 Markdown
-numpy
+numpy==1.18.0
 oauthlib
 opencv-python
 opt-einsum
@@ -34,7 +34,7 @@ requests
 requests-oauthlib
 rsa
 scikit-learn
-scipy
+scipy==1.4.1
 six
 sqlparse
 tensorboard
